@@ -1,0 +1,6 @@
+app/node_modules
+.nuxt
+# Node dependencies
+node_modules
+# System files
+*.log
