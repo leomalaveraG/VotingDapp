@@ -24,3 +24,6 @@
 
  
 
+## Screens 
+![MainScreen](image1.png)
+![VoteCasted](image2.png)
